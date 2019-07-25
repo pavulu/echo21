@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/echo21" mode="merge"/>
+    <filter root="/content/echo21" mode="merge"/>
+    <filter root="/content/dam/echo21" mode="merge"/>
+</workspaceFilter>
